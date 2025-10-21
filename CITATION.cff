@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper."
+title: "Machine Learning-Driven Prediction of Ultrafast Spin Relaxation in Metal Halide Perovskites for Spintronic Applications"
+authors:
+  - family-names: Chen
+    given-names: Mingxi
+year: 2025
+date-released: 2025-10-21
+type: software
+license: MIT
